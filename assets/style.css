@@ -11,7 +11,7 @@ body {
     text-align: center;
 }
 
-h2, h3 {
+h2, h3, h4 {
     text-align: left;
     font-size: 18px;
     margin-left: 20px;
@@ -42,6 +42,14 @@ span[data-descr]:hover::after {
     background-position: center;
     width: 700px;
     height: 400px;
+}
+
+.imagetwo {
+    display: block;
+    width: 500px;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .navbar {
